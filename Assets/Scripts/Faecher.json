@@ -1,0 +1,19 @@
+{
+  "Faecher": [
+      {
+        "name": "Deutsch",
+        "stunde": 1,
+        "lehrer": "Eifler"
+      },
+      {
+        "name": "Mathe",
+        "stunde": 2,
+        "lehrer": "Topsch"
+      },
+      {
+        "name": "Informatik",
+        "stunde": 3,
+        "lehrer": "Baethge"
+      }
+    ]
+}
